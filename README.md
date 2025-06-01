@@ -1,6 +1,6 @@
 <!-- LOGO DO PROJETO -->
 <p align="center">
-  <a href="https://github.com/calcom/cal.com">
+  <a href="https://github.com/tupilab/tupilab.com">
    <img src="./assets/readme-banner.png" alt="Logo">
   </a>
 
